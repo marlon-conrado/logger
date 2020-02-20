@@ -25,7 +25,7 @@ logger.log({
       exception: new Error("Database").message,
       level: "error",
       classMethodUrlEndpoint: "Index",
-      userEmail: "marlonconrado1998@gmail.com"
+      userEmail: "marlon@gmail.com"
     },
     "|"
   )
@@ -41,7 +41,7 @@ logger.log({
       exception: new Error("Database").message,
       level: "error",
       classMethodUrlEndpoint: "Index",
-      userEmail: "marlonconrado1998@gmail.com"
+      userEmail: "marlon@gmail.com"
     },
     "|"
   )
@@ -57,7 +57,7 @@ logger.warn({
       exception: new Error("Database").message,
       level: "error",
       classMethodUrlEndpoint: "Index",
-      userEmail: "marlonconrado1998@gmail.com"
+      userEmail: "marlon@gmail.com"
     },
     "|"
   )
